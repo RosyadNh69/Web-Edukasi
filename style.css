@@ -288,3 +288,6 @@ form table tr input{
   justify-content: center;
   height: 500px;
 }
+a{
+   text-decoration: none;
+}    
