@@ -328,6 +328,10 @@ form table tr input {
   margin: 15px;
   margin-right: 100px;
 }
+#daftar {
+  background: #44749d;
+  padding-bottom: 20px;
+}
 .daftarm h1 {
   font-size: 30px;
   padding: 30px;
@@ -336,6 +340,11 @@ form table tr input {
 }
 .daftarm {
   padding: 30px;
+  background: white;
+  margin-top: 20px;
+}
+.putih {
+  background: white;
 }
 .tk {
   display: flex;
